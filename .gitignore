@@ -1,0 +1,21 @@
+### packages ###
+bun.lockb
+package-lock.json
+
+### macOS ###
+.DS_*
+
+### react ###
+node_modules
+
+### build ###
+.vinxi
+.output
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+
+### general ###
+*.txt
